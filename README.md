@@ -1,9 +1,6 @@
-# Courses-Management-System
-A Course Management System (CMS) streamlines student-professor interactions, enabling course tracking, grade review, and assignment management. Built in Java using OOP, ADTs, and exception handling, this GUI-based tool enhances efficiency and prevents errors in academic administration. 
-
 # 📚 Course Management System GUI
-
 A Java-based Course Management System developed as part of the BEE2053 Java Programming course (Jan–April 2023) at UCSI University. The system provides a simple and effective graphical interface for **students** and **professors** to manage academic activities, backed by a MySQL database for real-time data operations.
+A Course Management System (CMS) streamlines student-professor interactions, enabling course tracking, grade review, and assignment management. Built in Java using OOP, ADTs, and exception handling, this GUI-based tool enhances efficiency and prevents errors in academic administration.
 
 ---
 
@@ -70,11 +67,10 @@ A Java-based Course Management System developed as part of the BEE2053 Java Prog
 
 ## 🧑‍💻 Authors
 
-- Mohammed Ahmed Hussien (1002163078)  
-- Mohamed Tarek Essam (1002163249)  
-- Abdullah Ahmed Elhaddad (1002060687)  
-- Amtul Shaafi Hanaa (1002162952)
-
+- Mohammed Ahmed Hussien 
+- Mohamed Tarek Essam 
+- Abdullah Ahmed Elhaddad   
+- Amtul Shaafi Hanaa 
 ---
 
 ## 📝 License
